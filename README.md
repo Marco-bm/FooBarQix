@@ -20,4 +20,4 @@ More details:
 * 33 contains 3 two times and is divisible by 3, so we print “FooFooFoo”
 * 27 is divisible by 3 and contains 7, so we print "FooQix"
 
-Note : Compile program FooBarQix before execute
+Note : Compile program FooBarQix.sql before execute
